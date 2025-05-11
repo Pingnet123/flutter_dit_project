@@ -4,7 +4,7 @@ Ui Screen Only for Welcome, Login and Signup
 
 ## ภาพ Ui Screen
 
-![localhost_9040_(iPhone 14 Pro Max)](https://github.com/user-attachments/assets/60b6267a-d91e-4659-abcc-03e3fa0dd4af)
+
 <img src="https://github.com/user-attachments/assets/f55f831c-60ce-4c08-8c46-f8b7f58b9c2e" width"100">
 
 
